@@ -4,5 +4,4 @@ Welcome to my GitHub! I'm a student at the University of Michigan School of Info
 Feel free to reach out to me at yutongdu@umich.edu and [lia-du.com](https://lia-du.com)!
 
 ## Tookit
-- **Design**: Figma, UserTesting
-- **Languages**: Python, SQL, R, HTML/CSS
+- Figma, Python, SQL, R, HTML/CSS
