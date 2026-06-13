@@ -1,3 +1,1 @@
-info sci @ university of michigan
-
-figma, python, sql, r, cursor, claude code
+Hi! I'm Lia, a student at the University of Michigan studying Information Science & Statistics.
