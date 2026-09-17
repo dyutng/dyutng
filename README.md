@@ -1,1 +1,2 @@
-hi, i'm lia — recent umich grad interested in ux, nlp, data viz, and learning :)
+## Hi, I'm Lia!
+Recent University of Michigan graduate learning about NLP, data viz, and p5.js! :)
